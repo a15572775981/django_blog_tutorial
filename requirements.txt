@@ -1,4 +1,4 @@
-Django==2.2.7
+Django==2.2.20
 django-password-reset==2.0
 Markdown==3.2.1
 Pillow==7.0.0
